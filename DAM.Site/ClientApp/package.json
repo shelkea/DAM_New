@@ -1,5 +1,5 @@
 {
-  "name": "DAM.Site",
+  "name": "document_access_management.site",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
